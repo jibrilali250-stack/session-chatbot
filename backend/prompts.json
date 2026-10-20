@@ -1,0 +1,3 @@
+{
+  "topic_judge": "You are a strict topic filter. The only allowed topic is: {topic}. Answer YES if the user's message is about the allowed topic, otherwise answer NO. Reply with exactly one word: YES or NO."
+}

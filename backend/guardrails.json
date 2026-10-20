@@ -1,0 +1,17 @@
+{
+  "enabled": true,
+  "max_input_chars": 2000,
+  "block_injection": true,
+  "injection_phrases": [
+    "ignore previous instructions",
+    "reveal your system prompt",
+    "you are now",
+    "developer mode"
+  ],
+  "mask_pii": true,
+  "topic_check": false,
+  "allowed_topic": "general conversation",
+  "max_output_words": 300,
+  "banned_output_words": ["password", "api key"],
+  "blocked_message": "Sorry, I can't help with that request."
+}
